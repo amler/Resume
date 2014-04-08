@@ -163,28 +163,6 @@ p {
 .skill-col1 > h3,
 .skill-col2 > h3 {
 	margin-top: 50px;
-	padding-left: 20px;
-}
-
-.tagicon {
-	background-image: url('../img/tag.png');
-	background-position: top left;
-	background-repeat: no-repeat;
-}
-.flatscreen {
-	background-image: url('../img/flatscreen.png');
-	background-position: top left;
-	background-repeat: no-repeat;
-}
-.multi-user {
-	background-image: url('../img/multiple-users');
-	background-position: top left;
-	background-repeat: no-repeat;
-}
-.single-user {
-	background-image: url('../img/single-users');
-	background-position: top left;
-	background-repeat: no-repeat;
 }
 
 .technicalskills {
